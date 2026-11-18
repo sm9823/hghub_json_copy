@@ -1,0 +1,55 @@
+{
+  "name": "HGhub 成人源",
+  "description": "成人站点源。宿主默认隐藏，需在设置中开启后再导入。",
+  "plugins": [
+    {
+      "id": "avtoday",
+      "name": "avtoday",
+      "version": "1.0.1",
+      "url": "plugins/avtoday.js",
+      "description": "avtoday：分类、搜索、详情与 HLS 播放。"
+    },
+    {
+      "id": "hanime",
+      "name": "Hanime1",
+      "version": "1.0.1",
+      "url": "plugins/hanime.js",
+      "description": "Hanime1：分类、搜索、详情与直链播放。"
+    },
+    {
+      "id": "hkdoll",
+      "name": "玩偶姐姐",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/hkdoll.js",
+      "description": "玩偶姐姐：分类、搜索、详情与 XOR 解密播放。"
+    },
+    {
+      "id": "huangguo",
+      "name": "黄果短剧",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/huangguo.js",
+      "description": "黄果短剧站点源：首页、分类、搜索、详情、HLS 播放与图文。封面走站点公开的 AES-CBC 图片协议。"
+    },
+    {
+      "id": "madou",
+      "name": "麻豆社",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/madou.js",
+      "description": "麻豆社：分类、搜索、详情与 HLS 播放。"
+    },
+    {
+      "id": "pornhub",
+      "name": "Pornhub",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/pornhub.js",
+      "description": "Pornhub：分类、搜索、详情与 HLS 播放。"
+    },
+    {
+      "id": "xhamster",
+      "name": "xHamster",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/xhamster.js",
+      "description": "xHamster：分类、搜索、详情与多清晰度播放。"
+    }
+  ]
+}
