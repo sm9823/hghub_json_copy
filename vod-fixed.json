@@ -1,0 +1,104 @@
+{
+  "name": "HGhub 普通影视插件集",
+  "description": "HPP 1.0 普通影视插件合集，使用绝对下载地址。",
+  "plugins": [
+    {
+      "id": "4kav",
+      "name": "4k-av",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/4kav.js",
+      "description": "4kmp 影视源：首页、分类、搜索、详情与直链播放。"
+    },
+    {
+      "id": "anfuns",
+      "name": "anfuns",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/anfuns.js",
+      "description": "anfuns 动漫源：分类、搜索、多线路详情与播放解析。"
+    },
+    {
+      "id": "aowu",
+      "name": "嗷呜动漫",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/aowu.js",
+      "description": "嗷呜动漫：DS 列表接口、详情多线路与 AES 播放解析。"
+    },
+    {
+      "id": "apple",
+      "name": "小苹果",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/apple.js",
+      "description": "小苹果影视 App 接口：分类、搜索、详情与 HLS 播放。上游为 HTTP。"
+    },
+    {
+      "id": "duanjutt",
+      "name": "短剧天堂",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/duanjutt.js",
+      "description": "短剧天堂：分类、详情与播放。搜索页有验证码，当前不提供搜索。"
+    },
+    {
+      "id": "hdmoli",
+      "name": "hdmoli",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/hdmoli.js",
+      "description": "hdmoli：电影、剧集、动画分类、搜索、详情与播放解析。"
+    },
+    {
+      "id": "hjkk",
+      "name": "韩剧看看",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/hjkk.js",
+      "description": "韩剧看看：韩剧、韩影、韩综分类、搜索、详情与播放解析。"
+    },
+    {
+      "id": "jdys",
+      "name": "绝对影视",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/jdys.js",
+      "description": "绝对影视：分类、搜索、详情与 AES 播放解析。"
+    },
+    {
+      "id": "jpyy",
+      "name": "金牌影视",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/jpyy.js",
+      "description": "金牌影视匿名接口：分类、搜索、详情与播放。签名用 MD5+SHA1。"
+    },
+    {
+      "id": "saohuo",
+      "name": "烧火电影",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/saohuo.js",
+      "description": "烧火电影：分类、搜索、多线路详情与 iframe 解析播放。"
+    },
+    {
+      "id": "tiantian",
+      "name": "天天影视",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/tiantian.js",
+      "description": "天天影视 App 接口：分类、搜索、详情与播放。上游为 HTTP，请求带 MD5 签名。"
+    },
+    {
+      "id": "wwgz",
+      "name": "农民影视",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/wwgz.js",
+      "description": "农民影视：分类、搜索、多线路详情与 nmvod 播放解析。"
+    },
+    {
+      "id": "xiaohys",
+      "name": "小红影视",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/xiaohys.js",
+      "description": "小红影视：DS 列表接口、详情多线路与 AES 播放解析。"
+    },
+    {
+      "id": "xingya",
+      "name": "星芽短剧",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/CoderL98/hghub-plugins/main/plugins/xingya.js",
+      "description": "星芽短剧 App 接口：分类、搜索、详情与直链播放。登录令牌保存在插件存储中。"
+    }
+  ]
+}
